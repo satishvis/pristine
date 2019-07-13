@@ -19,7 +19,7 @@ Then clone the this repo in your themes directory:
 
 ```
 cd themes
-git clone https://github.com/sakibccr/pristine.git
+git clone https://github.com/satishvis/pristine.git
 ```
 
 Then set the `theme` variable in your config file:
